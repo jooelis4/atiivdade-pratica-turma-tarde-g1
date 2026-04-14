@@ -9,3 +9,5 @@ da variável nome e preço não tendo getters seria impossivel mostra-las na exe
 
 *ERROS DO CÓDIGO PRODUTO ELETRONICO: Principais erros eram na importação (o extends Produto), por estar mal colocada e faltando alguns detalhes ademais, somente retirei o @Override do metodo Calcular desconto por ser
 desnecessário.
+
+*ERROS DO CÓDIGO MAIN: Apenas corrigi os erros na instanciação das classes pois o código tentava instanciar classes abstradas o que não é possível.
